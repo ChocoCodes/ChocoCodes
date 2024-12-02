@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chococodes&label=Profile%20views&color=0e75b6&style=flat" alt="chococodes"/> </p>
 
-- 🔭 I’m currently working on **FinnaOrganize: Finance Tracking System**
+- 🔭 I’m currently working on **DeliverIT: Logistics Management System**
 
 - 🌱 I’m currently learning **Java, SQL, Web Development**
 
