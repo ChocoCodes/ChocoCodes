@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm John Roland Octavio</h1>
 <h3 align="center">Aspiring Software Engineer from the Philippines</h3>
 <img align="right" alt="Certified Python Data Associate" width="400" src="https://i.imgur.com/XUSYGST.png">
-<img align="right" alt="Certified SQL Associate" width="400" src="https://i.imgur.com/XUSYGST.png">
+<img align="right" alt="Certified SQL Associate" width="400" src="https://i.imgur.com/XtJqp56.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chococodes&label=Profile%20views&color=0e75b6&style=flat" alt="chococodes"/> </p>
 
