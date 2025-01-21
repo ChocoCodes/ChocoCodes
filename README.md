@@ -1,6 +1,6 @@
 [![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8)](github.com/ChocoCodes)
 <h1 align="center">Hi 👋, I'm John Roland Octavio</h1>
-<h3 align="center">Aspiring Software Engineer from the Philippines</h3>
+<h3 align="center">Developer from the Philippines</h3>
 <img align="right" alt="Certified Python Data Associate" width="400" src="https://i.imgur.com/XUSYGST.png">
 <img align="right" alt="Certified SQL Associate" width="400" src="https://i.imgur.com/XtJqp56.png">
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **FinnaOrganize: Finance Tracking/Logging System**
 
-- 🌱 I’m currently learning **React, TypeScript, SQL, Web Development**
+- 🌱 I’m currently learning **React, TypeScript, Web Development**
 
 - 📫 How to reach me **johnrlnd1704@gmail.com**
 
